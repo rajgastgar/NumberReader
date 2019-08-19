@@ -1,8 +1,9 @@
 # NumberReader
-VirtusaTest
+
+
 Main class to run this java application is "ReadNumberExecuter"
 
-After running the main class user will be promppted as bellow.
+After running the main class user will be prompted to enter the number.(max 9 digit numbers are allowed. no special chars are allowed.)
 
         Please enter the number to be read : 
 
