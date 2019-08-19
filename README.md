@@ -1,7 +1,7 @@
 # NumberReader
 
 
-Main class to run this java application is "ReadNumberExecuter"
+Main class to run this java application is "com.readnumbers.ReadNumberExecuter"
 
 After running the main class user will be prompted to enter the number.(max 9 digit numbers are allowed. no special chars are allowed.)
 
